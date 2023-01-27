@@ -50,9 +50,10 @@ def max_marks(list1):
 
 ```
 ## Sample Input and Output
-![output](./[](README.md).jpg) 
+![](./README.md)
 
 ## Output:
+
 
 ## Result:
 
