@@ -53,6 +53,9 @@ def max_marks(list1):
 ![](./README.md)
 
 ## Output:
+![](./MAX1.png)
+![](./MAX2.png)
+![](./MAX3.png)
 
 
 ## Result:
